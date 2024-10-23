@@ -7,8 +7,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class ShoppingCartApplicationTests {
-    @Test
-    void contextLoads() {
-    }
+public class ShoppingCartApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
 }
